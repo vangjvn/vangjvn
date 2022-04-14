@@ -1,11 +1,15 @@
 ### Who am I 👋
-- Expert in artificial intelligence algorithms & Blockchain Engineer
+- Expert in artificial intelligence algorithms and Blockchain 
 
 - I’m currently working on Topia
 - I graduated from Tianjin University, one of the top 20 universities in China.
 - Master degree in computer science.
 - My main development languages are Python and Golang
 
+## Technology stack
+- artificial intelligence，machine learning，risk control，modeling，growth，user portrait，recommendation，prediction，AIOps
+- **Champion of algorithm contest for many times**
+- Blockchain
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vangjvn)](https://github.com/anuraghazra/github-readme-stats)
 
