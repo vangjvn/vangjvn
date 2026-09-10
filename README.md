@@ -11,6 +11,7 @@
   - Anomaly detection algorithm models outperformed teams from the Chinese Academy of Sciences and top companies in the industry
 - 💼 9+ years in AI / big data, 5+ years leading engineering teams; shipped AI products from 0 to 1 across telecom, fintech risk control, AIOps, AIGC and blockchain
 - 💻 Proficient in blockchain architecture design and development for DeFi, NFT, and GameFi applications
+- 📫 Contact: vangjvn@gmail.com · OpenReview: ~Jun_Wang132
 
 ## 🔥 Recent Work: LLM Agent Systems (2025–present)
 - **Agent runtime from scratch**: Replaced a third-party low-code stack (Dify) with a self-built agent runtime — single-pass plan + tool-call loop, vector-based intent routing, multi-level caching, long-term memory, parallel tool calls and an MCP-compatible tool layer. First-token latency 30s+ → 3–6s (simple queries 1–2s), LLM call volume halved, and a 4.5 vs. 3.7 competitor-average score in a four-dimension benchmark (accuracy / intent / safety / UX). The same runtime now powers six product surfaces; onboarding a new one dropped from ~2 weeks to 2–3 days
@@ -51,6 +52,7 @@
   - 异常检测算法模型优于中科院和业内顶尖公司团队
 - 💼 9 年以上 AI / 大数据经验,5 年以上技术团队管理经验;在电信、金融风控、AIOps、AIGC、区块链多个领域主导 AI 产品从 0 到 1 落地
 - 💻 精通区块链架构设计和开发,涉及DeFi、NFT和GameFi应用
+- 📫 联系方式：vangjvn@gmail.com · OpenReview：~Jun_Wang132
 
 ## 🔥 近期工作:LLM Agent 系统(2025 至今)
 - **从零自研 Agent 运行时**:用自研运行时替换第三方低代码平台(Dify)——单次调用完成规划与工具调用的 Agent Loop、向量意图路由、多级缓存、长期记忆、多工具并行调用、兼容 MCP 的工具层。首字响应 30s+ → 3–6s(简单查询 1–2s),LLM 调用次数减半,四维度(准确性 / 意图理解 / 安全性 / 体验)竞品评测 4.5 分 vs 竞品均分 3.7 分。同一套运行时已支撑六个产品场景,新场景接入周期从约 2 周缩短到 2–3 天
