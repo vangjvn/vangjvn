@@ -2,7 +2,7 @@
 # 👋 Hi there, I'm Wang Jun 
 ## 🚀 About Me
 - 🤖 AI Engineering Lead | LLM Agent Runtime & Harness Engineering | Context / Cost Engineering | AI-Native Dev Workflows | Blockchain Architect
-- 🏢 Currently Technical Lead in the AI department of a top-3 global crypto exchange (2025–present): built the production agent stack behind its consumer AI investment assistant, now bringing coding agents into the company's engineering workflow
+- 🏢 Currently Technical Lead in the AI department of Gate (a top-3 global crypto exchange), 2025–present: built the production agent stack behind its consumer AI investment assistant, now bringing coding agents into the company's engineering workflow
 - 🎓 Graduated from a top 985 university in China with a master's degree in Computer Science
   - Perfect score in Math for the National College Entrance Examination (Gaokao)
   - 2nd place in the provincial Physics Olympiad
@@ -42,7 +42,7 @@
 # 👋 你好,我是王钧 
 ## 🚀 关于我
 - 🤖 AI 工程负责人 | LLM Agent 运行时与 Harness 工程 | 上下文 / 成本工程 | AI 原生研发流程 | 区块链架构师
-- 🏢 现任全球 TOP3 加密货币交易所 AI 部门技术负责人(2025 至今):从零搭建了其 C 端 AI 投资助手背后的生产级 Agent 技术栈,目前在推动编码智能体进入公司研发工作流
+- 🏢 现任 Gate 交易所(全球 TOP3 加密货币交易所)AI 部门技术负责人(2025 至今):从零搭建了其 C 端 AI 投资助手背后的生产级 Agent 技术栈,目前在推动编码智能体进入公司研发工作流
 - 🎓 毕业于中国顶尖985院校,获得计算机科学硕士学位
   - 高考数学满分
   - 物理奥赛省级第二名
